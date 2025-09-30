@@ -5,5 +5,5 @@
 
   tasks:
     - name: Print a message
-      ansible.builtin.debug:
+      debug:
         var: ansible_facts
