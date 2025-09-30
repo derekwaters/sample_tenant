@@ -1,0 +1,9 @@
+---
+- name: Debugging
+  hosts: all
+  connection: local
+
+  tasks:
+    - name: Print a message
+      ansible.builtin.debug:
+        var: ansible_facts
