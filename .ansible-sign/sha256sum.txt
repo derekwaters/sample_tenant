@@ -1,0 +1,2 @@
+c535552e5ba80dae6221ab495a4a29b026a7284f939c7f93f00d45dbe9a5a851  MANIFEST.in
+7e46182a02ef833ebdc5c2336a5d5c32b113c985d39265f51f2e4bf490a5e57b  playbooks/sample_playbook.yml
